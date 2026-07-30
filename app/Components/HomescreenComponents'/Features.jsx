@@ -1,6 +1,6 @@
 const features = [
   {
-    title: "Crystal-Clear Audio",
+    title: "Voice-Based Sessions",
     desc: "Adaptive bitrate streaming keeps every consultation calm and clear, even on weak networks.",
     icon: (
       <path d="M9 18V5l12-2v13M9 18a3 3 0 1 1-6 0 3 3 0 0 1 6 0zm12-2a3 3 0 1 1-6 0 3 3 0 0 1 6 0z" />
