@@ -21,7 +21,7 @@ const columns = [
     links: [
       { label: "Privacy Policy", href: "/privacypolicy" },
       { label: "Contact Details", href: "/contactus" },
-      { label: "Terms of Service", href: "#" },
+      { label: "Terms of Service", href: "/termsandconditions" },
     ],
   },
 ];
@@ -34,19 +34,19 @@ export default function Footer() {
           <div className="inline-flex items-center gap-2.5 bg-white">
             <Image
               src="/Images/LG!.png"
-              alt="FunTalk logo"
+              alt="4FunTalk logo"
               width={40}
               height={36}
               className="h-9 w-10 object-contain"
             />
             <span className="text-[17px] font-bold tracking-[-0.5px]">
-              FunTalk
+              4FunTalk
             </span>
           </div>
 
           <p className="mt-4 text-[13px] leading-[1.7] text-[#8c8c8c]">
-            Mind Free Talk, Live Better. A wellness calling app for the
-            conversations that help you feel better.
+            Mind Free Talk, Live Better. A platform for counseling sessions
+            and virtual consultations that help you feel better.
           </p>
         </div>
 
@@ -85,7 +85,7 @@ export default function Footer() {
 
       <div className="mt-14 flex flex-col items-center justify-between gap-4 border-t border-black/[0.06] pt-6 sm:flex-row">
         <p className="text-[12px] text-[#8c8c8c]">
-          © {new Date().getFullYear()} FunTalk. All rights reserved.
+          © {new Date().getFullYear()} 4FunTalk. All rights reserved.
         </p>
 
         <p className="text-[12px] text-[#8c8c8c]">

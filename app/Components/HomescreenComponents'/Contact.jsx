@@ -27,7 +27,7 @@ export default function Contact() {
         </h2>
 
         <p className="relative mt-5 w-full text-[14px] leading-[1.8] text-white/60 sm:w-[70%] sm:text-[16px]">
-          Download FunTalk today and get your free 5-minute Intro Pack, or
+          Download 4FunTalk today and get your free 5-minute Intro Pack, or
           reach out to our wellness team — we&apos;d love to hear from you.
         </p>
 

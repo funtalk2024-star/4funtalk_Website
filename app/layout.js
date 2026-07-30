@@ -21,7 +21,7 @@ const manrope = Manrope({
 export const metadata = {
   title: "4FunTalk",
   description:
-    "FunTalk is a wellness calling app that connects you with caring listeners for calming, mindful conversations. Mind Free Talk, Live Better.",
+    "4FunTalk is an online platform for counseling sessions, virtual consultations, and anonymous chat spaces focused on emotional well-being and relaxation. Mind Free Talk, Live Better.",
 };
 
 export default function RootLayout({ children }) {

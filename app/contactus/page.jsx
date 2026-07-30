@@ -1,8 +1,8 @@
 import Footer from "../Components/HomescreenComponents'/Footer";
 
 export const metadata = {
-  title: "Contact Details — FunTalk",
-  description: "Official contact details for FunTalk — email, phone, and address.",
+  title: "Contact Details — 4FunTalk",
+  description: "Official contact details for 4FunTalk — email, phone, and address.",
 };
 
 const CONTACT_EMAIL = "support@4funtalk.com";
@@ -31,7 +31,7 @@ const details = [
   },
   {
     label: "Address",
-    value: "FunTalk, Kerala, India",
+    value: "4FunTalk, Kerala, India",
     href: null,
     icon: (
       <>
@@ -57,7 +57,7 @@ export default function ContactUsPage() {
           </h1>
 
           <p className="mt-4 w-full text-[14px] leading-[1.8] text-[#707070] sm:w-[80%] sm:text-[16px]">
-            Questions about FunTalk, need support, or have a privacy or
+            Questions about 4FunTalk, need support, or have a privacy or
             safety concern? Reach us directly using the details below.
           </p>
 

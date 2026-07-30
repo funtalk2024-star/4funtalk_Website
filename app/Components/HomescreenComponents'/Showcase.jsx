@@ -27,7 +27,7 @@ export default function Showcase() {
         </h2>
 
         <p className="mt-6 w-full text-[14px] font-normal leading-[1.8] text-[#707070] sm:w-[70%] sm:text-[16px] lg:w-[45%]">
-          From an incoming ring to a calming conversation — see how FunTalk
+          From an incoming ring to a calming conversation — see how 4FunTalk
           looks in your hand.
         </p>
       </div>

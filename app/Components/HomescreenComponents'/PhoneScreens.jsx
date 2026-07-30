@@ -108,7 +108,7 @@ export function IncomingCallScreen({ name = "Fidha" }) {
           {name}
         </p>
 
-        <p className="mt-1 text-[10px] text-white/50">FunTalk audio call</p>
+        <p className="mt-1 text-[10px] text-white/50">4FunTalk audio call</p>
       </div>
 
       <div className="mb-10 flex items-center justify-center gap-16">
@@ -141,7 +141,7 @@ export function FriendsScreen({ friends }) {
 
       <div className="flex items-center justify-between px-5 pt-5">
         <span className="text-[14px] font-bold tracking-[-0.5px] text-white">
-          FunTalk
+          4FunTalk
         </span>
 
         <div className="flex h-7 w-7 items-center justify-center rounded-full bg-white text-[10px] font-bold text-black">
@@ -170,7 +170,7 @@ export function FriendsScreen({ friends }) {
           <div className="relative h-10 w-10 shrink-0 overflow-hidden rounded-[10px]">
             <Image
               src="/Images/LG!.png"
-              alt="FunTalk logo"
+              alt="4FunTalk logo"
               fill
               sizes="40px"
               className="object-contain"

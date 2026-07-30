@@ -77,7 +77,7 @@ export default function Landing() {
                   <span className="relative h-1.5 w-1.5 rounded-full bg-black" />
                 </span>
 
-                Now with Guided Wellness Calls
+                Now with Guided Wellness Consultations
               </div>
 
               {/* Heading */}
@@ -94,10 +94,10 @@ export default function Landing() {
               {/* Description */}
 
               <p className="mt-6 w-full text-[14px] font-normal leading-[1.8] text-[#707070] sm:w-[80%] sm:text-[16px] md:w-[70%] md:text-[17px] lg:w-[60%] xl:w-[600px] xl:text-[16px] 2xl:text-[18px]">
-                A wellness calling app that connects you with caring
-                listeners and companions for crystal-clear conversations.
-                Talk it out, de-stress, and feel heard — whenever you need
-                it.
+                An online platform for counseling sessions, virtual
+                consultations, and anonymous chat spaces focused on emotional
+                well-being and relaxation. Talk it out, de-stress, and feel
+                heard — whenever you need it.
               </p>
 
               {/* ================= STORE BUTTONS ================= */}
@@ -131,7 +131,7 @@ export default function Landing() {
 
               <p className="mt-5 flex items-center gap-2 text-[12px] font-medium text-[#707070] sm:text-[13px]">
                 <span className="h-1.5 w-1.5 rounded-full bg-black" />
-                New here? Get the Intro Pack — 5 minutes of free wellness calls.
+                New here? Get the Intro Pack — 5 minutes of free wellness consultation.
               </p>
             </div>
 

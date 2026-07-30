@@ -4,7 +4,7 @@ import { AVATARS } from "./avatars";
 const highlights = [
   {
     title: "Built for mindful conversations",
-    desc: "No noise, no clutter — just calm, reliable calls that help you feel better.",
+    desc: "No noise, no clutter — just calm, reliable sessions that help you feel better.",
   },
   {
     title: "Made in Kerala, used everywhere",
@@ -12,7 +12,7 @@ const highlights = [
   },
   {
     title: "Privacy is non-negotiable",
-    desc: "Every call is end-to-end encrypted. What you share stays between you and the person you called.",
+    desc: "Every session is end-to-end encrypted. What you share stays between you and your counselor.",
   },
 ];
 
@@ -35,11 +35,11 @@ export default function About() {
         <div className="flex flex-col items-center text-center lg:items-start lg:text-left">
           <div className="inline-flex items-center gap-2 rounded-full border border-black/10 bg-white px-4 py-2 text-[11px] font-medium text-black/70 sm:text-[12px]">
             <span className="h-1.5 w-1.5 rounded-full bg-black" />
-            About FunTalk
+            About 4FunTalk
           </div>
 
           <h2 className="mt-6 text-[32px] font-semibold leading-[1.1] tracking-[-1.5px] sm:text-[42px] sm:tracking-[-2px] lg:text-[48px]">
-            A wellness calling app built
+            A counseling & consultation platform built
             <br className="hidden lg:block" />{" "}
             <span className="bg-gradient-to-r from-black via-black/70 to-black/30 bg-clip-text text-transparent">
               around your wellbeing.
@@ -47,11 +47,11 @@ export default function About() {
           </h2>
 
           <p className="mt-6 w-full text-[14px] font-normal leading-[1.8] text-[#707070] sm:w-[85%] sm:text-[16px] lg:w-full lg:text-[16px]">
-            FunTalk started with a simple idea — talking things through
-            shouldn&apos;t feel like work. No dropped calls, no confusing
-            settings, no distractions. Just clear audio, caring
-            conversations, and a community of over 10,000 people choosing to
-            check in on their mind every single day.
+            4FunTalk started with a simple idea — talking things through
+            shouldn&apos;t feel like work. No confusing settings, no
+            distractions. Just clear sessions, caring conversations, and a
+            community of over 10,000 people choosing to check in on their
+            mind every single day.
           </p>
 
           <div className="mt-10 flex w-full flex-col gap-5">

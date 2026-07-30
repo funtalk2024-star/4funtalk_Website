@@ -1,14 +1,14 @@
 const features = [
   {
     title: "Crystal-Clear Audio",
-    desc: "Adaptive bitrate streaming keeps every wellness call calm and clear, even on weak networks.",
+    desc: "Adaptive bitrate streaming keeps every consultation calm and clear, even on weak networks.",
     icon: (
       <path d="M9 18V5l12-2v13M9 18a3 3 0 1 1-6 0 3 3 0 0 1 6 0zm12-2a3 3 0 1 1-6 0 3 3 0 0 1 6 0z" />
     ),
   },
   {
     title: "Caring, Trained Listeners",
-    desc: "Every companion on FunTalk is trained to listen with patience and without judgment.",
+    desc: "Every companion on 4FunTalk is trained to listen with patience and without judgment.",
     icon: (
       <path d="M12 21s-6.7-4.35-9.3-8.28C1.02 10.1 1.5 6.5 4.6 5A5.4 5.4 0 0 1 12 6.5 5.4 5.4 0 0 1 19.4 5c3.1 1.5 3.58 5.1 1.9 7.72C18.7 16.65 12 21 12 21z" />
     ),
@@ -30,7 +30,7 @@ const features = [
   },
   {
     title: "Privacy First",
-    desc: "End-to-end encrypted calls. What you share stays between you and the person you called.",
+    desc: "End-to-end encrypted sessions. What you share stays between you and your counselor.",
     icon: (
       <path d="M12 2 4 5v6c0 5.5 3.4 9.7 8 11 4.6-1.3 8-5.5 8-11V5l-8-3zM9.5 12l1.8 1.8L15 10" />
     ),
@@ -65,7 +65,7 @@ export default function Features() {
         </h2>
 
         <p className="mt-6 w-full text-[14px] font-normal leading-[1.8] text-[#707070] sm:w-[70%] sm:text-[16px] lg:w-[45%]">
-          FunTalk keeps wellness support simple, without cutting the features
+          4FunTalk keeps wellness support simple, without cutting the features
           that actually matter.
         </p>
       </div>
