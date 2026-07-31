@@ -67,19 +67,6 @@ export default function Contact() {
             </svg>
             +91 80898 00106
           </a>
-
-          <div className="flex items-center gap-3">
-            {["Instagram", "X", "YouTube"].map((label) => (
-              <a
-                key={label}
-                href="#"
-                aria-label={label}
-                className="flex h-9 w-9 items-center justify-center rounded-full border border-white/15 text-[11px] font-semibold text-white/70 transition hover:border-white/30 hover:text-white"
-              >
-                {label[0]}
-              </a>
-            ))}
-          </div>
         </div>
       </div>
     </section>

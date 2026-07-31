@@ -76,7 +76,7 @@ export default function PrivacyPolicyPage() {
               {[
                 "We do not sell or rent your personal information to third parties for marketing purposes.",
                 "4FunTalk is not intended for children under the age of 18.",
-                "We use trusted partners (like Agora) only to power in-app features — never to sell or misuse your data.",
+                "We use trusted partners (like ZEGOCLOUD) only to power in-app features — never to sell or misuse your data.",
                 "You can edit your profile or request access, correction, or deletion of your data at any time.",
                 "We use reasonable technical and organizational measures, including encrypted (HTTPS) connections, to protect your data.",
               ].map((item) => (
@@ -232,20 +232,21 @@ export default function PrivacyPolicyPage() {
                 <li>Analytics platforms</li>
               </ul>
               <p className="mt-2">
-                We use third-party services such as Agora to enable
+                We use third-party services such as ZEGOCLOUD to enable
                 real-time audio features in the 4FunTalk app. These
                 providers may process limited technical information (such as
                 IP address or device type) to enable smooth service
-                delivery. We ensure that providers like Agora do not sell or
-                misuse any personal or sensitive user data, and their data
-                handling complies with our privacy standards. Learn more at{" "}
+                delivery. We ensure that providers like ZEGOCLOUD do not
+                sell or misuse any personal or sensitive user data, and
+                their data handling complies with our privacy standards.
+                Learn more at{" "}
                 <a
-                  href="https://www.agora.io/en/privacy-policy/"
+                  href="https://www.zegocloud.com/privacy-policy"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="font-medium text-[#e5273b] hover:underline"
                 >
-                  Agora&apos;s Privacy Policy
+                  ZEGOCLOUD&apos;s Privacy Policy
                 </a>
                 .
               </p>

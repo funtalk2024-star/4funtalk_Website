@@ -38,13 +38,9 @@ export default function About() {
             About 4FunTalk
           </div>
 
-          <h2 className="mt-6 w-full text-[26px] font-semibold leading-[1.2] tracking-[-1px] sm:text-[34px] sm:tracking-[-1.5px] md:text-[40px] lg:text-[48px] lg:tracking-[-2px]">
-            A counseling &amp; consultation platform built
-            <br className="hidden md:block" />{" "}
-            <span className="bg-gradient-to-r from-black via-black/70 to-black/30 bg-clip-text text-transparent">
-              around your wellbeing.
-            </span>
-          </h2>
+          <h1 className="mt-6 w-full text-[26px] font-semibold leading-[1.2] tracking-[-1px] sm:text-[34px] sm:tracking-[-1.5px] md:text-[40px] lg:text-[48px] lg:tracking-[-2px]">
+            A counseling &amp; consultation platform built around your wellbeing.
+          </h1>
 
           <p className="mt-6 w-full text-[14px] font-normal leading-[1.8] text-[#707070] sm:w-[85%] sm:text-[16px] lg:w-full lg:text-[16px]">
             4FunTalk started with a simple idea — talking things through
