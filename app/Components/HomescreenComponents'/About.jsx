@@ -38,7 +38,7 @@ export default function About() {
             About 4FunTalk
           </div>
 
-          <h1 className="mt-6 w-full text-[26px] font-semibold leading-[1.2] tracking-[-1px] sm:text-[34px] sm:tracking-[-1.5px] md:text-[40px] lg:text-[48px] lg:tracking-[-2px]">
+          <h1 className="mt-6 w-full bg-gradient-to-r from-black via-black/70 to-black/30 bg-clip-text text-[26px] font-semibold leading-[1.2] tracking-[-1px] text-transparent sm:text-[34px] sm:tracking-[-1.5px] md:text-[40px] lg:text-[48px] lg:tracking-[-2px]">
             A counseling &amp; consultation platform built around your wellbeing.
           </h1>
 
